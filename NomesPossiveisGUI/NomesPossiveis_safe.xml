@@ -1,0 +1,19 @@
+<br.eti.romel.lounge.nomespossiveis.Parametros>
+  <nomes class="java.util.Arrays$ArrayList">
+    <a class="string-array">
+      <string>Carlos Romel</string>
+    </a>
+  </nomes>
+  <nomesMaternos class="java.util.Arrays$ArrayList">
+    <a class="string-array">
+      <string>Freitas</string>
+      <string>Corrêa</string>
+    </a>
+  </nomesMaternos>
+  <nomesPaternos class="java.util.Arrays$ArrayList">
+    <a class="string-array">
+      <string>Pereira</string>
+      <string>da Silva</string>
+    </a>
+  </nomesPaternos>
+</br.eti.romel.lounge.nomespossiveis.Parametros>
