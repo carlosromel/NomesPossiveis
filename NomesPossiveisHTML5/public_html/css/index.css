@@ -1,0 +1,17 @@
+#nome, #nomeMaterno, #nomePaterno {
+    width: 70%;
+}
+
+#btnCombinar {
+    width: 100%;
+}
+
+#grpNomes, #grpNomesMaternos, #grpNomesPaternos {
+    width: 100%;
+    text-wrap: none;
+}
+
+#nomes, #nomesMaternos, #nomesPaternos, #nomesGerados {
+    width: 100%;
+    height: 4em;
+}
