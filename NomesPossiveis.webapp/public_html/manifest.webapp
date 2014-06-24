@@ -1,0 +1,29 @@
+{
+  "version": "0.0.1",
+  "name": "NomesPossiveis",
+  "description": "Nomes possíveis",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icons/icon16x16.png",
+    "48": "/img/icons/icon48x48.png",
+    "60": "/img/icons/icon60x60.png",
+    "128": "/img/icons/icon128x128.png"
+  },
+  "developer": {
+    "name": "Carlos Romel Pereira da Silva <carlos.romel@gmail.com>",
+    "url": "http://romel.eti.br/webapp/NomesPossiveis/"
+  },
+  "type": "privileged",
+  "permissions": {},
+  "installs_allowed_from": [
+    "*"
+  ],
+  "locales": {
+    "pt_BR": {
+      "name": "Aplicación vacía privilegiada",
+      "description": "Una plantilla con la mínima estructura",
+      "permissions": {}
+    }
+  },
+  "default_locale": "pt_BR"
+}

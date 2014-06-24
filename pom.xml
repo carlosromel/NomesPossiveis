@@ -10,7 +10,7 @@
     <modules>
         <module>NomesPossiveisLib</module>
         <module>NomesPossiveisGUI</module>
-        <module>NomesPossiveisHTML5</module>
+        <module>NomesPossiveis.webapp</module>
     </modules>
     <scm>
         <connection>scm:git:https://github.com/carlosromel/NomesPossiveis.git</connection>
